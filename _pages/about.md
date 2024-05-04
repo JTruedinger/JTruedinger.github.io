@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bayreuth \n Chair of English Linguistics II
+subtitle: University of Bayreuth | Chair of English Linguistics II
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  more_info: >
+     <p>555 GWI, 0.10</p>
+     <p>123 Universitätsstraße 30</p>
+     <p>Bayreuth, Germany 95447</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
