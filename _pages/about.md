@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Bayreuth
-English Linguistics II
+subtitle: University of Bayreuth \n Chair of English Linguistics II
 
 profile:
   align: right
