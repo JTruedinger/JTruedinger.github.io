@@ -28,7 +28,7 @@
       "position": "Doctoral Candidate/Research Associate",
       "url": "https://example.com",
       "startDate": "May 2022",
-      "endDate": "",
+      "endDate": "ongoing",
       "summary": "PhD Studies and teaching various courses.",
       "highlights": []
     }
@@ -41,7 +41,7 @@
       "area": "English Linguistics",
       "studyType": "PhD",
       "startDate": "May 2022",
-      "endDate": ongoing,
+      "endDate": "ongoing",
       "score": "",
       "courses": ["Scottish Standard English Grammar"]
     },
