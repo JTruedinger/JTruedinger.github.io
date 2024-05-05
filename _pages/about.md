@@ -6,7 +6,7 @@ subtitle: University of Bayreuth | Chair of English Linguistics II
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
      <p>Office Hour: Monday 1-2pm
