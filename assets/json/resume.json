@@ -4,15 +4,15 @@
     "label": "Linguist",
     "image": "",
     "email": "johannes.truedinger@uni-bayreuth.de",
-    "phone":,
-    "url": ,
-    "summary":,
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Universitätsstraße 30",
+      "postalCode": "95447",
+      "city": "Bayreuth",
+      "countryCode": "Germany",
+      "region": "Bavaria"
     },
     "profiles": [
       {
@@ -30,18 +30,18 @@
       "startDate": "May 2022",
       "endDate": "",
       "summary": "PhD Studies and teaching various courses.",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "education": [
     {
       "institution": "University of Bayreuth, Germany",
-      "location": ,
-      "url": ,
+      "location": "",
+      "url": "",
       "area": "English Linguistics",
       "studyType": "PhD",
       "startDate": "May 2022",
-      "endDate": ,
+      "endDate": ongoing,
       "score": "",
       "courses": ["Scottish Standard English Grammar"]
     },
@@ -62,7 +62,7 @@
     {
       "institution": "Otto-Friedrich University Bamberg, Germany",
       "area": "Linguistics, Politics, History",
-      "studyType": "BA"
+      "studyType": "BA",
       "startDate": "2015",
       "endDate": "2019"
     }
