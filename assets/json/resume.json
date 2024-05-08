@@ -4,15 +4,15 @@
     "label": "Linguist",
     "image": "",
     "email": "johannes.truedinger@uni-bayreuth.de",
-    "phone": null,
-    "url": null,
-    "summary": null,
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
       "address": "Universitätsstraße 30",
       "postalCode": "95447",
       "city": "Bayreuth",
       "countryCode": "Germany",
-      "region": null
+      "region": ""
     },
     "profiles": [
       {
