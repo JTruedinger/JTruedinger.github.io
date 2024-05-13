@@ -26,3 +26,17 @@
       institution: University of Bayreuth
       year: 2022 - ongoing
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Phonetics and Phonology
+      year: SS 2024
+    - title: Introduction to English Linguistics; Syntactic Analysis
+      year: WS 2023/24
+    - title: Phonetics and Phonology
+      year: SS 2023
+    - title: Introduction to English Linguistics
+      year: WS 2022/23
+    - title: Variational Linguistics
+      year: SS 2022
+
