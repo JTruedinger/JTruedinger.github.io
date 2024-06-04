@@ -20,6 +20,8 @@ social: false # includes social icons at the bottom of the page
 ---
 !!! UNDER CONSTRUCTION !!!
 
-I am a Research Associate at the University of Bayreuth and I have a passion for speech and language processing and data analysis.
+I am a Research Associate and PhD Student in Linguistics at the University of Bayreuth. I am co-supervised by Prof. Dr. Markus Bieswanger and Prof. Dr. Ole Schützler. 
 
-My research background is in Sociophonetics and Phonetics. Lately, I am transitioning into corpus and grammar analysis, and computational linguistics.
+My main interests include speech and language processing and all things phonetics. My research background is in Sociophonetics and Phonetics, but lately I am transitioning into corpus and grammar analysis, and computational linguistics.
+
+Prior to my PhD studies, I completed a MSc and MScR in Linguistics at the University of Edinburgh and BA studies in English/Politics/History at the Otto-Friedrich University Bamberg.
