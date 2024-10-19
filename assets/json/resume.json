@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Johannes Trüdinger",
+    "label": "Linguist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "johannes.truedinger@uni-bayreuth.de",
+    "phone": "",
+    "url": "https://jtruedinger.github.io/",
+    "summary": "Linguist | Phonetician ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -14,14 +14,6 @@
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
