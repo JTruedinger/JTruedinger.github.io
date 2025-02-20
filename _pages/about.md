@@ -18,6 +18,8 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+!!! Under Construction !!!
+
 I am a Research Associate and PhD Student in Linguistics at the University of Bayreuth. I am co-supervised by [Prof. Dr. Markus Bieswanger](https://www.english-linguistics2.uni-bayreuth.de/de/team/bieswanger/index.php) and [Prof. Dr. Ole Schützler](https://www.uni-leipzig.de/personenprofil/mitarbeiter/prof-dr-ole-schuetzler). 
 
 My main interests include speech and language processing and all things phonetics. My research background is in Sociophonetics and Phonetics, but lately I am transitioning into computational linguistics with a focus on NLP.
