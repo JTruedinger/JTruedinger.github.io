@@ -9,7 +9,7 @@ profile:
   image: 
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Office Hour WS 24/25: Monday 12-1 pm (Appointment via E-mail) # <a href="https://calendar.app.google/x95MjBD7ATn8MArw8">Book here</a></p>
+     <p>Office Hour SS 25: Tuesday 12-1 pm  <a href="https://calendar.app.google/x95MjBD7ATn8MArw8">Book here</a></p>
      <p>GWI, 0.10</p>
      <p>Universitätsstraße 30</p>
      <p>Bayreuth, Germany 95447</p>
