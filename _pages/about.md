@@ -9,7 +9,7 @@ profile:
   image: 
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Office Hour WS 26: Wednesday 1-2pm
+     <p>Office Hour WS 26: Wednesday 11-12am
      <p>GWI, 0.10</p>
      <p>Universitätsstraße 30</p>
      <p>Bayreuth, Germany 95447</p>
